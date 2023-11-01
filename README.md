@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/ramim102" target="blank"><img src="https://img.shields.io/twitter/follow/ramim102?logo=twitter&style=for-the-badge" alt="ramim102" /></a> </p>
 
-- 🔭 I’m currently working on **a E-commerce**
+- 🔭 I’m currently working on **a E-commerce project**
 
 - 🌱 I’m currently learning **Node & Express**
 
